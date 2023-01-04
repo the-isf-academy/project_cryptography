@@ -1,19 +1,21 @@
 # Unit Cryptography: Puzzle Project
 
+**Name(s):**
+
+
 > This is written in Markdown. If you're interested in how to format Markdown, click [here](https://www.markdownguide.org/basic-syntax/#images-1).
 >
 > Formatting is purely aesthetic, it is not required.
 
-**Name(s):**
 
 ---
 
 ## Project Summary
-> Your summary goes below. *You may delete this line.*
+*Your summary goes below. You may delete this line.*
 
 
 ## First clue
-> Your first clue goes below. *You may delete this line.*
+*Your first clue goes below. You may delete this line.*
 
 
 ---
